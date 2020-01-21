@@ -450,6 +450,10 @@ def fnManin(ra_shop, engine_model, keyword):
 
 
 html= fnManin("1", "1", "2")
+
+
+print("testing")
+
     
     
 
